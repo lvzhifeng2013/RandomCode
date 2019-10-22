@@ -1,0 +1,9 @@
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\bin\Debug\RandomCode.exe.config
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\bin\Debug\RandomCode.exe
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\bin\Debug\RandomCode.pdb
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\obj\Debug\RandomCode.Form1.resources
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\obj\Debug\RandomCode.Properties.Resources.resources
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\obj\Debug\RandomCode.csproj.GenerateResource.cache
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\obj\Debug\RandomCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\obj\Debug\RandomCode.exe
+C:\Users\Administrator.USER-20190220EP\Desktop\RandomCode\RandomCode\obj\Debug\RandomCode.pdb
